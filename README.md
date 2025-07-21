@@ -32,7 +32,7 @@ This repository contains my complete lab work and assignments for the Operating 
 
 - Developed FIFO, LRU, Optimal, and LFU page-replacement strategies.
 
-###Deadlock & Concurrency Control
+### Deadlock & Concurrency Control
 
 - Solved classic synchronization problems: Producer‑Consumer, Reader‑Writer.
 
